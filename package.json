@@ -1,0 +1,29 @@
+{
+  "name": "relógio-cronômetro",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "devDependencies": {
+    "babel-preset-expo": "^7.0.0"
+  },
+  "dependencies": {
+    "expo": "^37.0.0",
+    "react": "16.9.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.0.tar.gz",
+    "moment": "latest",
+    "native-base": "latest",
+    "react-navigation": "4.1.1",
+    "react-native-paper": "3.6.0",
+    "react-native-screens": "^2.0.0",
+    "react-native-tab-view": "^2.0.0",
+    "react-native-reanimated": "^1.0.0",
+    "@react-navigation/native": "5.0.5",
+    "@react-navigation/bottom-tabs": "latest",
+    "react-native-safe-area-context": "^0.6.0",
+    "@react-navigation/material-top-tabs": "latest",
+    "react-native-vector-icons": "latest",
+    "react-navigation-tabs": "latest"
+  }
+}
